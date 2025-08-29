@@ -1,12 +1,9 @@
 <h1 align="center">ThemeClipper</h1>
 
-<h4 align="center">Generate backdrops from movies and TV shows for Jellyfin. Built on <a href="https://rust-lang.org" target="_blank">Rust</a>.
-
+<h4 align="center">Generate backdrops from movies and TV shows for Jellyfin. Built on <a href="https://rust-lang.org" target="_blank">Rust</a>.<br>
 
 ThemeClipper is a lightweight backdrop generator written in [Rust](https://rust-lang.org) that automatically creates live backdrops for your movies and TV shows using FFmpeg.
 It follows Jellyfin's backdrop file structure, making integration seamless.
-
----
 
 ## Features
 
@@ -19,9 +16,9 @@ It follows Jellyfin's backdrop file structure, making integration seamless.
 
 ## Roadmap
 
-- [] **Audio-based** clip detection
-- [] **Visual-based** scene analysis
-- [] **Music-driven** theme clips
+- [ ] **Audio-based** clip detection
+- [ ] **Visual-based** scene analysis
+- [ ] **Music-driven** theme clips
 
 ---
 
